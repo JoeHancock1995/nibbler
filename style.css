@@ -1,0 +1,16 @@
+*{
+  background-color: black;
+}
+.h1container{
+  height: 100px;
+  margin: 0px;
+}
+h1{
+  font-family: "Ye Old Shire Outline";
+  color: white;
+  text-align: center;
+  letter-spacing: 4px;
+  font-size: 52px;
+  height: 90px;
+}
+

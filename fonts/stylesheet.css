@@ -1,0 +1,73 @@
+@font-face {
+    font-family:"Groove Machine";
+    src:url("GROOM___.woff2") format("woff2"),url("GROOM___.woff") format("woff"),url("GROOM___.otf") format("opentype");
+    font-style:normal;font-weight:400;
+}
+
+@font-face {
+    font-family:"Oblivious font";
+    src:url("ObliviousFont.woff2") format("woff2"),url("ObliviousFont.woff") format("woff"),url("ObliviousFont.otf") format("opentype");
+    font-style:normal;font-weight:400;
+}
+
+@font-face {
+    font-family:"CrackMan";
+    src:url("CRACKMAN.woff2") format("woff2"),url("CRACKMAN.woff") format("woff"),url("CRACKMAN.otf") format("opentype");
+    font-style:normal;font-weight:400;
+}
+
+@font-face {
+    font-family:"Future Chibaraki";
+    src:url("fchibaraki2byte.woff2") format("woff2"),url("fchibaraki2byte.woff") format("woff"),url("fchibaraki2byte.otf") format("opentype");
+    font-style:normal;font-weight:400;
+}
+    
+@font-face {
+    font-family:"Garaje53Unicase-Black";
+    src:url("Garaje 53 Uni Black.woff2") format("woff2"),url("Garaje 53 Uni Black.woff") format("woff"),url("Garaje 53 Uni Black.otf") format("opentype");
+    font-style:normal;font-weight:400;
+}
+    
+@font-face {
+    font-family:"Industrial Decapitalist";
+    src:url("indust.woff2") format("woff2"),url("indust.woff") format("woff"),url("indust.otf") format("opentype");
+    font-style:normal;font-weight:400;
+}
+
+@font-face {
+    font-family:"JAVATA";
+    src:url("JAVATA.woff2") format("woff2"),url("JAVATA.woff") format("woff"),url("JAVATA.otf") format("opentype");
+    font-style:normal;font-weight:400;
+}
+
+@font-face {
+    font-family:"KarmaFuture-Regular";
+    src:url("karma future.woff2") format("woff2"),url("karma future.woff") format("woff"),url("karma future.otf") format("opentype");
+    font-style:normal;font-weight:400;
+}
+
+
+@font-face {
+    font-family:"TANTOR";
+    src:url("TANTOR__.woff2") format("woff2"),url("TANTOR__.woff") format("woff"),url("TANTOR__.otf") format("opentype");
+    font-style:normal;font-weight:400;
+}
+
+@font-face {
+    font-family:"Warsaw Gothic";
+    src:url("WarsawGothic.woff2") format("woff2"),url("WarsawGothic.woff") format("woff"),url("WarsawGothic.otf") format("opentype");
+    font-style:normal;font-weight:400;
+}
+
+@font-face {
+    font-family:"Ye Old Shire Outline";
+    src:url("Ye Old Shire Outline.woff2") format("woff2"),url("Ye Old Shire Outline.woff") format("woff"),url("Ye Old Shire Outline.otf") format("opentype");
+    font-style:normal;font-weight:400;
+}
+
+@font-face {
+    font-family:"Ye Old Shire";
+    src:url("Ye Old Shire.woff2") format("woff2"),url("Ye Old Shire.woff") format("woff"),url("Ye Old Shire.otf") format("opentype");
+    font-style:normal;font-weight:400;
+}
+             

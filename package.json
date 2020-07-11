@@ -1,8 +1,12 @@
 {
   "name": "nibbler",
   "version": "1.0.0",
-  "description": "A small game made for educational purposes",
+  "description": "",
   "main": "app.js",
+  "dependencies": {
+    "three": "^0.118.3"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,8 +20,5 @@
   "bugs": {
     "url": "https://github.com/JoeHancock1995/nibbler/issues"
   },
-  "homepage": "https://github.com/JoeHancock1995/nibbler#readme",
-  "dependencies": {
-    "inquirer": "^7.3.0"
-  }
+  "homepage": "https://github.com/JoeHancock1995/nibbler#readme"
 }
